@@ -1,0 +1,16 @@
+# Allow all Search Engine & AI Scraper Bots
+User-agent: *
+Allow: /
+
+# Allow OpenAI & Perplexity RAG Bots
+User-agent: GPTBot
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+# Sitemap Location
+Sitemap: https://aqibspeaks.github.io/aqibramzan.github.io/sitemap.xml
