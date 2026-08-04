@@ -1,9 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
+
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url>
-    <loc>https://aqibspeaks.github.io/aqibramzan.github.io/</loc>
-    <lastmod>2026-07-31</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>1.0</priority>
-  </url>
+
+    <!-- HOMEPAGE -->
+    <url>
+        <loc>https://aqib-speaks.github.io/aqibramzan.github.io/</loc>
+        <lastmod>2026-08-04</lastmod>
+    </url>
+
+    <!-- BLOG HOMEPAGE -->
+    <url>
+        <loc>https://aqib-speaks.github.io/aqibramzan.github.io/blog/</loc>
+        <lastmod>2026-08-04</lastmod>
+    </url>
+
+    <!-- AQIB RAMZAN MEDIA BUYER -->
+    <url>
+        <loc>https://aqib-speaks.github.io/aqibramzan.github.io/blog/aqib-ramzan-media-buyer.html</loc>
+        <lastmod>2026-08-04</lastmod>
+    </url>
+
+    <!-- META ADS MEDIA BUYING GUIDE -->
+    <url>
+        <loc>https://aqib-speaks.github.io/aqibramzan.github.io/blog/meta-ads-media-buying-guide.html</loc>
+        <lastmod>2026-08-04</lastmod>
+    </url>
+
 </urlset>
