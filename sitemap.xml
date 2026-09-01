@@ -1,41 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
-
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-
-    <!-- HOMEPAGE -->
     <url>
-        <loc>https://aqib-speaks.github.io/aqibramzan.github.io/</loc>
+        <loc>https://aqibspeaks.github.io/aqibramzan.github.io/</loc>
+        <lastmod>2026-09-01</lastmod>
+    </url>
+    <url>
+        <loc>https://aqibspeaks.github.io/aqibramzan.github.io/blog/</loc>
+        <lastmod>2026-09-01</lastmod>
+    </url>
+    <url>
+        <loc>https://aqibspeaks.github.io/aqibramzan.github.io/blog/media-buying-metrics-guide.html</loc>
+        <lastmod>2026-09-01</lastmod>
+    </url>
+    <url>
+        <loc>https://aqibspeaks.github.io/aqibramzan.github.io/blog/aqib-ramzan-media-buyer.html</loc>
         <lastmod>2026-08-04</lastmod>
     </url>
-
-    <!-- BLOG HOMEPAGE -->
     <url>
-        <loc>https://aqib-speaks.github.io/aqibramzan.github.io/blog/</loc>
+        <loc>https://aqibspeaks.github.io/aqibramzan.github.io/blog/how-to-scale-meta-ads.html</loc>
         <lastmod>2026-08-04</lastmod>
     </url>
-
-    <!-- ARTICLE 1 -->
     <url>
-        <loc>https://aqib-speaks.github.io/aqibramzan.github.io/blog/aqib-ramzan-media-buyer.html</loc>
+        <loc>https://aqibspeaks.github.io/aqibramzan.github.io/blog/meta-ads-creative-testing-framework.html</loc>
         <lastmod>2026-08-04</lastmod>
     </url>
-
-    <!-- ARTICLE 2 -->
     <url>
-        <loc>https://aqib-speaks.github.io/aqibramzan.github.io/blog/how-to-scale-meta-ads.html</loc>
+        <loc>https://aqibspeaks.github.io/aqibramzan.github.io/blog/meta-ads-media-buying-guide.html</loc>
         <lastmod>2026-08-04</lastmod>
     </url>
-
-    <!-- ARTICLE 3 -->
-    <url>
-        <loc>https://aqib-speaks.github.io/aqibramzan.github.io/blog/meta-ads-creative-testing-framework.html</loc>
-        <lastmod>2026-08-04</lastmod>
-    </url>
-
-    <!-- ARTICLE 4 -->
-    <url>
-        <loc>https://aqib-speaks.github.io/aqibramzan.github.io/blog/meta-ads-media-buying-guide.html</loc>
-        <lastmod>2026-08-04</lastmod>
-    </url>
-
 </urlset>
