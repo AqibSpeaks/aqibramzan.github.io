@@ -1,16 +1,29 @@
-# Allow all Search Engine & AI Scraper Bots
+# Search engines and AI answer engines may crawl public content.
 User-agent: *
 Allow: /
 
-# Allow OpenAI & Perplexity RAG Bots
+User-agent: Googlebot
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
 User-agent: GPTBot
 Allow: /
 
-User-agent: PerplexityBot
+User-agent: OAI-SearchBot
+Allow: /
+
+User-agent: ChatGPT-User
 Allow: /
 
 User-agent: ClaudeBot
 Allow: /
 
-# Sitemap Location
+User-agent: Claude-User
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
 Sitemap: https://aqibspeaks.github.io/aqibramzan.github.io/sitemap.xml
