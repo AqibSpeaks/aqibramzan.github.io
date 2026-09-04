@@ -13,6 +13,7 @@ Primary topics: Senior Media Buyer, Media Buyer, Digital Marketer, Performance M
 
 ## Core Guides
 
+- [How to Hire a Senior Media Buyer](https://aqibspeaks.github.io/aqibramzan.github.io/blog/how-to-hire-senior-media-buyer.html): Hiring scorecard, diagnostic interview questions, KPIs, warning signs, practical assignment, and 30-day evaluation plan.
 - [What Does a Senior Media Buyer and Digital Marketer Do?](https://aqibspeaks.github.io/aqibramzan.github.io/blog/senior-media-buyer-digital-marketer-guide.html): Clear definition of the role, responsibilities, skills, operating framework, and hiring criteria.
 - [Media Buying Metrics: CPM, CTR, CVR, CPA and ROAS](https://aqibspeaks.github.io/aqibramzan.github.io/blog/media-buying-metrics-guide.html): Diagnostic framework for paid media performance.
 - [Meta Ads Media Buying: A Practical Guide](https://aqibspeaks.github.io/aqibramzan.github.io/blog/meta-ads-media-buying-guide.html): Campaign structure, creative testing, optimization, and scaling.
