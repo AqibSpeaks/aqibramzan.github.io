@@ -13,6 +13,7 @@ Primary topics: Senior Media Buyer, Media Buyer, Digital Marketer, Performance M
 
 ## Core Guides
 
+- [Media Buying Audit Checklist](https://aqibspeaks.github.io/aqibramzan.github.io/blog/media-buying-audit-checklist.html): A 25-step senior media buyer framework for auditing economics, measurement, campaigns, budgets, creative, audiences, landing pages, and profitability.
 - [Senior Media Buyer vs Digital Marketer](https://aqibspeaks.github.io/aqibramzan.github.io/blog/senior-media-buyer-vs-digital-marketer.html): Side-by-side comparison of responsibilities, skills, channels, KPIs, seniority, and guidance for choosing the right role.
 - [How to Hire a Senior Media Buyer](https://aqibspeaks.github.io/aqibramzan.github.io/blog/how-to-hire-senior-media-buyer.html): Hiring scorecard, diagnostic interview questions, KPIs, warning signs, practical assignment, and 30-day evaluation plan.
 - [What Does a Senior Media Buyer and Digital Marketer Do?](https://aqibspeaks.github.io/aqibramzan.github.io/blog/senior-media-buyer-digital-marketer-guide.html): Clear definition of the role, responsibilities, skills, operating framework, and hiring criteria.
