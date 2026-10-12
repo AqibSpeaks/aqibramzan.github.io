@@ -778,6 +778,16 @@ section { position: relative; }
   line-height: 1.6;
 }
 
+/* FEATURED GUIDES */
+#guides {
+  padding: 120px 60px;
+  background: var(--paper);
+}
+
+#guides .expertise-header { max-width: 720px; }
+#guides .expertise-grid { grid-template-columns: repeat(3, 1fr); }
+#guides a { color: inherit; text-decoration: none; }
+
 /* FAQ */
 #faq {
   padding: 120px 60px;
@@ -1000,6 +1010,8 @@ footer {
   .case-platforms { position: static; flex-direction: row; flex-wrap: wrap; }
   #expertise { padding: 80px 32px; }
   .expertise-grid { grid-template-columns: 1fr 1fr; }
+  #guides { padding: 80px 32px; }
+  #guides .expertise-grid { grid-template-columns: 1fr 1fr; }
   #faq { grid-template-columns: 1fr; padding: 80px 32px; gap: 48px; }
   .faq-left { position: static; }
   #skills { padding: 80px 32px; }
@@ -1010,6 +1022,7 @@ footer {
 
 @media (max-width: 640px) {
   .expertise-grid { grid-template-columns: 1fr; }
+  #guides .expertise-grid { grid-template-columns: 1fr; }
   .nav-links { display: none; }
   .hero-stats { gap: 24px; flex-wrap: wrap; }
 }
@@ -1403,6 +1416,49 @@ footer {
       <div class="skill-row"><span>A/B Testing & Experimentation</span><div class="skill-bar-wrap"><div class="skill-bar" style="width:92%"></div></div></div>
       <div class="skill-row"><span>Google Tag Manager</span><div class="skill-bar-wrap"><div class="skill-bar" style="width:78%"></div></div></div>
     </div>
+  </div>
+</section>
+
+<!-- FEATURED GUIDES -->
+<section id="guides">
+  <div class="expertise-header reveal">
+    <div class="section-tag">Media Buying Guides</div>
+    <h2 class="section-heading">Practical frameworks for paid growth</h2>
+    <p style="color:var(--slate); font-size:16px; line-height:1.7; margin-top:18px;">
+      In-depth resources by Aqib Ramzan covering senior media buying, Facebook and Meta Ads, Google Ads, TikTok Ads, campaign audits, measurement and digital marketing strategy.
+    </p>
+  </div>
+  <div class="expertise-grid reveal">
+    <a class="expertise-card" href="blog/aqib-ramzan-media-buyer.html">
+      <div class="exp-icon">👤</div>
+      <div class="exp-title">Aqib Ramzan — Senior Media Buyer</div>
+      <div class="exp-desc">Professional profile covering Facebook, Google and TikTok media buying, performance marketing and digital growth.</div>
+    </a>
+    <a class="expertise-card" href="blog/media-buying-audit-checklist.html">
+      <div class="exp-icon">✓</div>
+      <div class="exp-title">Media Buying Audit Checklist</div>
+      <div class="exp-desc">A 25-step framework for reviewing tracking, campaign structure, creative, budgets, funnels and profitability.</div>
+    </a>
+    <a class="expertise-card" href="blog/media-buying-metrics-guide.html">
+      <div class="exp-icon">📊</div>
+      <div class="exp-title">Media Buying Metrics Guide</div>
+      <div class="exp-desc">Diagnose CPM, CTR, CPC, conversion rate, CPA and ROAS without optimizing one metric in isolation.</div>
+    </a>
+    <a class="expertise-card" href="blog/meta-ads-creative-testing-framework.html">
+      <div class="exp-icon">🧪</div>
+      <div class="exp-title">Meta Ads Creative Testing</div>
+      <div class="exp-desc">A structured process for testing creative concepts, hooks, formats, proof and messaging.</div>
+    </a>
+    <a class="expertise-card" href="blog/how-to-hire-senior-media-buyer.html">
+      <div class="exp-icon">🎯</div>
+      <div class="exp-title">How to Hire a Senior Media Buyer</div>
+      <div class="exp-desc">Interview questions, evaluation criteria, warning signs and a practical senior media buyer scorecard.</div>
+    </a>
+    <a class="expertise-card" href="blog/how-to-become-senior-media-buyer.html">
+      <div class="exp-icon">📈</div>
+      <div class="exp-title">Become a Senior Media Buyer</div>
+      <div class="exp-desc">A career roadmap covering skills, experience, portfolio strategy and a 12-month development plan.</div>
+    </a>
   </div>
 </section>
 
